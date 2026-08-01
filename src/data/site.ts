@@ -9,7 +9,7 @@ export const site = {
   location: "Lagos, Nigeria (Remote-ready)",
   email: "oluwashanud101@gmail.com", // TODO: replace with your real email
   github: "https://github.com/ODamilare", // TODO
-  linkedin: "www.linkedin.com/in/oluwashanu-damilare-b85404298", // TODO
+  linkedin: "https://www.linkedin.com/in/oluwashanu-damilare-b85404298", // TODO
   // Drop your PDF at public/cv/Damilare_Oluwashanu_CV.pdf and leave this as is,
   // or point it at an external hosted URL instead.
   resumeUrl: "/cv/Damilare_Oluwashanu_CV.pdf",
