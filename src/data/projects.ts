@@ -47,8 +47,8 @@ export const projects: Project[] = [
     "Git",
     "GitHub"
   ],
-  live: "YOUR_VERCEL_URL",
-  repo: "YOUR_GITHUB_REPO_URL",
+  live: "https://notes-workspace-two.vercel.app/",
+  repo: "#",
 },
 
   {
