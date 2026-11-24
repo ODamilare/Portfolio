@@ -25,8 +25,34 @@ export const projects: Project[] = [
     live: "https://meridian-wallet.netlify.app",
     repo: "#",
   },
+
   {
-    id: "02",
+  id: "02",
+  status: "PRODUCTION",
+  name: "Notes Workspace",
+  summary:
+    "Notes Workspace is a full-stack productivity application that allows users to securely create, organize, edit, and manage personal notes through a clean, responsive workspace. Built with Next.js, React, PostgreSQL, and Prisma ORM, it features secure user authentication, user-specific data management, and RESTful API functionality, demonstrating full-stack development, database integration, and modern application architecture.",
+  stack: [
+    "Next.js",
+    "React",
+    "TypeScript",
+    "Tailwind CSS",
+    "PostgreSQL",
+    "Prisma ORM",
+    "JWT",
+    "REST API",
+    "Node.js",
+    "Supabase",
+    "Vercel",
+    "Git",
+    "GitHub"
+  ],
+  live: "YOUR_VERCEL_URL",
+  repo: "YOUR_GITHUB_REPO_URL",
+},
+
+  {
+    id: "03",
     status: "BETA",
     name: "LuxTravelerz",
     summary:
@@ -43,7 +69,7 @@ export const projects: Project[] = [
     repo: "#",
   },
   {
-    id: "03",
+    id: "04",
     status: "PRODUCTION",
     name: "Sephiroth Landing Page",
     summary:
@@ -59,7 +85,7 @@ export const projects: Project[] = [
     repo: "#",
   },
   {
-    id: "04",
+    id: "05",
     status: "PRODUCTION",
     name: "Deepseas Shipping",
     summary:
@@ -76,7 +102,7 @@ export const projects: Project[] = [
     repo: "#",
   },
   {
-    id: "05",
+    id: "06",
     status: "PRODUCTION",
     name: "Currency converter App",
     summary: "Currency Converter is a modern web application that provides real-time currency conversion with live exchange rates, historical trends, and an intuitive user interface for seamless financial calculations. Designed with a strong focus on usability and responsive design, it demonstrates API integration, interactive data visualization, and clean frontend architecture",
@@ -91,5 +117,6 @@ export const projects: Project[] = [
     live: "https://currencyconverter.lcfe.ng",
     repo: "#",
   },
+  
  
 ];
