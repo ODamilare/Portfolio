@@ -45,6 +45,7 @@ export const projects: Project[] = [
     "Supabase",
     "Vercel",
     "Git",
+    "Shadcn"
     "GitHub"
   ],
   live: "https://notes-workspace-two.vercel.app/",
